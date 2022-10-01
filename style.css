@@ -1,0 +1,18 @@
+.btn{
+    border-radius: 20px;
+    color: black;
+    background-color: red;
+    width: 200px;
+    font-size: 30px;
+}
+
+.heading{
+    background-color: blue;
+    color: aliceblue;
+    width: 250px;
+}
+body{
+    background-size:cover;
+    background-position:center;
+    text-align: center;
+}
